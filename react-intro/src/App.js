@@ -1,9 +1,9 @@
 import React from "react";
-import SimpleForm from "./SimpleForm";
+import Cookie from "./Cookie";
 
 const App = () => (
   <div>
-    <SimpleForm />
+    <Cookie/>
   </div>
 );
 

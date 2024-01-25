@@ -1,11 +1,9 @@
 const style = {
-    form: {
-        margin: 50,
+    img: {
+        margin: 75,
+        marginLeft: 700,
         padding: 10,
-        width: 300,
-        border: "1px solid black",
-        backgroundColor: "black",
-        color: "white"
+        width: 30,
     },
     inputGroup: {
         marginBottom: 10
