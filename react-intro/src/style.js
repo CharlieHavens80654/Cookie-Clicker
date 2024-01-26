@@ -1,9 +1,8 @@
 const style = {
-    img: {
-        margin: 75,
-        marginLeft: 700,
+    cookie: {
+        marginLeft: 500,
+        marginTop: 100,
         padding: 10,
-        width: 30,
     },
     inputGroup: {
         marginBottom: 10
@@ -15,6 +14,12 @@ const style = {
     error: {
         color: "red",
         margin: 5
+    },
+    label:{
+        marginLeft: 700,
+    },
+    reset:{
+        marginLeft: 720,
     }
 };
 

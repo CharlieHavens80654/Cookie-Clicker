@@ -1,7 +1,7 @@
 import React from "react";
 import Cookie from "./Cookie";
 
-const App = () => (
+const App = (cookie) => (
   <div>
     <Cookie/>
   </div>
